@@ -41,6 +41,7 @@ public:
             }
         }
 
+
         return s.substr(start,max);
     }
 };
